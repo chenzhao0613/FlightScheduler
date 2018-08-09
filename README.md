@@ -6,5 +6,12 @@
   - Add Dates
   
 - Booking
-  -
+  - Flight
+  - Customer
+  - Date
+
+- Drop
+ - Flight
+ 
+ 
 
